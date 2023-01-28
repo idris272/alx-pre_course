@@ -1,1 +1,1 @@
-git fetch
+git pull
